@@ -15,6 +15,8 @@ organized? How would branches help?
 Branches are good for releasing code, adding new features.  Branches help by adding friendy names for tracking work.
 
 How do the diagrams help you visualize the branch structure?
+Diagrams help understand what changes are contained withing a branch.  The also help understand the amount of 
+changes required when merging from one branch to another.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
