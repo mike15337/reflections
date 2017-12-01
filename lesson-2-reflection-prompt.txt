@@ -24,3 +24,5 @@ A branch with the changes from both branches.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Pro is that most merging can be auto determined and this saves time and reduces errors.
+
