@@ -12,6 +12,7 @@ Use git add to only add the files associated with the logical change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branches are good for releasing code, adding new features.  Branches help by adding friendy names for tracking work.
 
 How do the diagrams help you visualize the branch structure?
 
